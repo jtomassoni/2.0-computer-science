@@ -1,1 +1,1 @@
-# 1-computer-science
+# 1.0-computer-science
